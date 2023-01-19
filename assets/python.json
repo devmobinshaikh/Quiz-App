@@ -1,0 +1,40 @@
+[
+    {
+    "question": {
+        "1": " Is Python case sensitive when dealing with identifiers?",
+        "2": " What is the maximum possible length of an identifier?",
+        "3": "Who developed Python Programming Language?"
+    },
+    
+    "Options": {
+        "1": {
+            "a": "yes",
+            "b": "no",
+            "c": "machine dependent",
+            "d": "none of the mentioned"
+        },
+        "2":{
+            "a": "31 character",
+            "b": "63 character",
+            "c": "79 character",
+            "d": "none of the mentioned"
+        },
+        "3":{
+            "a": "Wick van Rossum",
+            "b": "Rasmus Lerdorf",
+            "c": "Guido van Rossum",
+            "d": "Niene Stom"
+
+        }
+    },
+    "Answer": {
+        "1": "a",
+        "2":"d",
+        "3":"Guido van Rossum"
+    },
+    "explanation": {
+        "1": "Case is always significant",
+        "2":"Identifiers can be of any length."
+    }
+}
+]
